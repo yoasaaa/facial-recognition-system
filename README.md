@@ -40,6 +40,8 @@ A serverless facial recognition system for employee attendance tracking using AW
 - **AI**: AWS Rekognition for facial recognition  
 - **API**: AWS API Gateway with RESTful endpoints  
 
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
 ## Project Structure
 
 ```
